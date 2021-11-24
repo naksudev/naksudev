@@ -1,4 +1,4 @@
-👋 Hi, I’m Naksu an amateur in programmation. I'm developping Discord Bots in Javascript and i'm continiously trying to learn Python, Java and C#.
+👋 Hi, I’m Naksu an amateur in programmation and in computer network.
 
 
 <!---
