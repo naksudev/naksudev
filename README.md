@@ -1,4 +1,4 @@
-👋 Hi, I’m Naksu an amateur in programmation and in computer network.
+👋 Hi, I’m Naksu an amateur in programmation and a student in computer networking.
 
 
 <!---
