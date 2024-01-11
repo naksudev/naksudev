@@ -2,3 +2,5 @@
 
 👋 Hi, I’m Naksu an amateur in programmation and a student in cybersecurity and computer networking.
 I like to learn everything in any domain.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=naksudev)](https://git.io/streak-stats)
