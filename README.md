@@ -7,10 +7,12 @@
 
 ---
 
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naksudev&theme=tokyonight&hide_border=true" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naksudev&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-</a>
+<div align=center>
+    <a href="#">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naksudev&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="#">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naksudev&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+    </a>
+</div>
 
